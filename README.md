@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project focuses on the identification of different species of flowers using advanced machine learning techniques. By leveraging image classification models, this project aims to accurately categorize flowers based on their visual characteristics.
+This project focuses on the identification of different species of flowers using advanced deep learning techniques. By leveraging image classification models, this project aims to accurately categorize flowers based on their visual characteristics.
 
 ## Features:
 
